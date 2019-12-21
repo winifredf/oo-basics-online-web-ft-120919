@@ -40,7 +40,8 @@ class Shoe
   end
   
   cobble = cobble.new(Your shoe is as good as new!)
-end  
+
+  end  
   
   
   def cobble
